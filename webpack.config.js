@@ -1,3 +1,4 @@
+require("@babel/polyfill")
 const path = require('path')
 const HTMLPlugin=require('html-webpack-plugin')
 const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
