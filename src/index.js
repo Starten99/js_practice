@@ -1,4 +1,5 @@
 import './scss/style.scss'
+import './components/polyfil.component'
 import { HeaderComponent } from './components/header.component'
 import { NavigationComponent } from './components/navigation.comonent'
 import { CreateComponent } from './components/create.component'
